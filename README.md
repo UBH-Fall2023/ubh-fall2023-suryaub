@@ -4,7 +4,7 @@
 With the implementation of this project, we are aiming at the below mentioned objectives: -\
 •	To improve the road safety by providing more information about the human objects (pedestrians) to the people travelling on the street.\
 •	To help the drivers with poor eye sight for recognizing the pedestrians.\
-•	To analyze the traffic data by discriminating two wheelers and four wheelers on the road.
+•	To analyze the traffic data.
 
 ### The major steps can be summarized as follows
 •	Auxiliary input and global parameters of the tracking system.\
